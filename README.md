@@ -27,8 +27,8 @@ I’m a passionate **Web Developer** and **Software Engineer** who loves buildin
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
 | **FlipPro** | Flipbook-style PDF/PPTX viewer with interactive UI and sharable links. | HTML, CSS, JavaScript, Firebase, Supabase |
-| **E-Commerce Platform** | A full-fledged online store inspired by Flipkart with user accounts and order management. | HTML, CSS, JavaScript, Firebase |
-| **Compiler to LLVM IR** | Custom compiler capable of handling complex values and mixed-type arrays/objects. | Python, LLVM IR |
+| **E-Commerce Platform** | A full-fledged online store inspired by Flipkart with user accounts and order management. | HTML, CSS, JavaScript, Firebase, Bootstrap |
+| **Compiler to LLVM IR** | Custom compiler capable of handling complex values and mixed-type arrays/objects. | Javascript, LLVM IR |
 
 ---
 
